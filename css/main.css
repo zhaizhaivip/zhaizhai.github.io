@@ -15,7 +15,7 @@ a,a:active,a:focus,a:hover,a:visited{color:inherit;text-decoration:none}
 .brand{display:flex;align-items:center;justify-content:flex-start;text-align:center;color:#000;font-size:32px;font-weight:200;padding:20px;cursor:pointer}
 .brand span{color:#000;font-weight:600}
 .brand span.flag{color:#fff;background:#f3832d;border-radius:2px;font-size:15px;font-weight:700;display:inline-block;padding:0 5px;margin-left:5px}
-.enter-maomi{width:60%;text-align:center;line-height:40px;border:2px solid #f3832d;border-radius:2px;margin-bottom:20px;margin-top:10px}
+.enter-maomi{width:80%;text-align:center;line-height:40px;border:2px solid #f3832d;border-radius:2px;margin-bottom:20px;margin-top:10px}
 .enter-icon{width:32px;height:41px;float:left;margin-right:5px;background-color:#f3832d}
 .enter-link a{display:block}
 .icon{width:20px;height:20px;background-position:center;background-size:contain;background-repeat:no-repeat;display:inline-block}
